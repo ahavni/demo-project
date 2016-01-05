@@ -2,3 +2,4 @@ new text from another branch
 test change
 test change 1
 change to rebase
+change to rebase 2
